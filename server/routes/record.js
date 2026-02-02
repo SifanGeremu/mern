@@ -1,0 +1,4 @@
+// 40HCHz0RVL1InLuF 
+//wins33975_db_user
+
+//mongodb+srv://wins33975_db_user:40HCHz0RVL1InLuF@cluster0.z0g1qtz.mongodb.net/?appName=Cluster0
